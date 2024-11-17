@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "66eedb5e6658c06ec536374d_a01a323e-54e9-45c6-9d00-82e9a90e98fc",
-  "id": "Page1_loginAPI",
+  "gitSyncId": "673a12c3142f6c7a0fac6e40_05322b6b-a6ba-449d-b76e-d9d1a9ed6220",
+  "id": "loginPage_loginAPI",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -11,7 +11,7 @@
           "value": "application/json"
         }
       ],
-      "body": "{\n  \"email\": \"{{emaillogin.text}}\",\n  \"password\": \"{{passwordinput.text}}\"\n}",
+      "body": "{\n  \"email\": \"{{emaillogin.text}}\",\n  \"password\": \"{{passwordinput.text}}\"\n}\n",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {
@@ -21,7 +21,6 @@
       "httpMethod": "POST",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",
-      "path": "/api/v1/login/",
       "pluginSpecifiedTemplates": [
         {
           "value": true
@@ -44,7 +43,7 @@
     ],
     "executeOnLoad": false,
     "name": "loginAPI",
-    "pageId": "Page1",
+    "pageId": "loginPage",
     "userSetOnLoad": false
   }
 }

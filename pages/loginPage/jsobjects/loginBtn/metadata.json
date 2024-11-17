@@ -1,9 +1,9 @@
 {
   "gitSyncId": "66eedb5e6658c06ec536374d_45bffe70-5d11-4f59-801e-f225bd8369ff",
-  "id": "Page1_loginBtn",
+  "id": "loginPage_loginBtn",
   "unpublishedCollection": {
     "name": "loginBtn",
-    "pageId": "Page1",
+    "pageId": "loginPage",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "variables": []
