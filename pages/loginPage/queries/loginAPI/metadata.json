@@ -21,6 +21,7 @@
       "httpMethod": "POST",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",
+      "path": "/api/v1/login/",
       "pluginSpecifiedTemplates": [
         {
           "value": true
